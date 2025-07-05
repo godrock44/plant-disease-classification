@@ -83,9 +83,4 @@ Although YOLO is widely known for object detection, the **Ultralytics YOLOv8** v
 
 ---
 
-Let me know if you'd like to add:
-- 📈 Metrics table (accuracy, loss, etc.)
-- 📦 Deployment instructions
-- 🌐 Web UI using Streamlit or Flask
 
-You're almost GitHub-ready! 💪🔥
